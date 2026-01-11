@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "頬が乾くまで",
+  "base_artist": "いよわ",
+  "createdAt": "2026-01-11T05:37:09.237423Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "頬が乾くまで",
+      "artist": "いよわ",
+      "has_synced": false,
+      "path": "select/pl_01_頬が乾くまで_いよわ.txt"
+    }
+  ]
+}
